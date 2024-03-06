@@ -37,10 +37,10 @@ import javax.servlet.ServletContext;
  * @author Antoine Rey
  */
 
-public class MainClass {
-        public static void main(String[] args) {
+class MainClass {
+     public static void main(String[] args) {
         
-        }
+     }
 }
 
 public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
