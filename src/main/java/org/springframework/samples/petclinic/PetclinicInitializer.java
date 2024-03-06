@@ -38,6 +38,12 @@ import javax.servlet.ServletContext;
  */
 public class PetclinicInitializer extends AbstractDispatcherServletInitializer {
 
+    public class MainClass {
+        public static void main(String[] args) {
+        
+        }
+    }
+
     /**
      * Spring profile used to choose the persistence layer implementation.
      * <p>
